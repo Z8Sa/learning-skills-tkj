@@ -274,8 +274,10 @@ elif materi=="SPG":
     elif SPG=="6":
       print("LINK BELAJAR : 6")
 
+    else:
+      print("Masukkan teks yang benar")
+      print()
 else:
-  print("Masukkan perintah yang benar")
-  print()
+  print("pastikan teks yang anda masukkan ada di menu")
 print()
 print("Close Program!!!....")
