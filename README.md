@@ -43,7 +43,7 @@ python --version
 Jalankan program:
 
 ```bash
-python elif.py
+python menu.py
 ```
 
 ---
@@ -75,7 +75,7 @@ https://youtu.be/yx7n_MsHqF0
 ```text
 project/
 │
-├── elif.py
+├── menu.py
 ├── README.md
 ```
 
